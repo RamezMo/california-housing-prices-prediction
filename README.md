@@ -141,7 +141,7 @@ models, predictions = regressor.fit(x_train, x_test, y_train, y_test)
 ## Evaluate models
 After training the model and predicting on the test data, it achieved an R² score of 0.833, indicating a strong fit. 
 The Mean Absolute Error (MAE) for testing was 31,186.46, reflecting the average prediction error in house prices.
-![image](https://github.com/RamezMo/california-housing-prices-prediction/assets/142325393/985ff75c-1c02-4648-92d3-ae6e63ba3a0b)
+![image](https://raw.githubusercontent.com/RamezMo/california-housing-prices-prediction/main/Screenshot%202024-07-06%20171109.png)
 
 
 ## Creating "Actual vs. Predicted Values" Plot
