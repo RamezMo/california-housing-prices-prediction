@@ -144,7 +144,8 @@ The Mean Absolute Error (MAE) for testing was 31,186.46, reflecting the average 
 ![image](https://github.com/RamezMo/california-housing-prices-prediction/assets/142325393/d66ce05e-e329-4b83-b4d4-3d5586193a74)
 
 
-##Creating "Actual vs. Predicted Values" Plot
+## Creating "Actual vs. Predicted Values" Plot
+
 #Plot actual vs. predicted values For Testing Data
 plt.figure(figsize=(10, 6))
 plt.scatter(y_test, predicted_test, alpha=0.7, edgecolors='k')
